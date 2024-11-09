@@ -1,14 +1,14 @@
 [tool.poetry]
-name = "zsh-plugin-name"
+name = "zsh-deno"
 version = "0.0.0"
 description = "zsh plugin name"
 authors = ["Luis Mayta <luis@hadenlabs.com>"]
 license = "LGPL-3.0"
 readme = "README.md"
-repository = "https://github.com/hadenlabs/zsh-plugin-template"
+repository = "https://github.com/hadenlabs/zsh-deno"
 
 [tool.poetry.dependencies]
-python = "^3.8,<3.12"
+python = "^3.9,<3.12"
 boto3 = "^1.26.130"
 
 [tool.poetry.group.dev.dependencies]

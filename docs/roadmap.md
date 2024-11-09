@@ -1,6 +1,6 @@
 <!-- Space: Projects -->
-<!-- Parent: ZshPluginTemplate -->
-<!-- Title: Roadmap ZshPluginTemplate -->
+<!-- Parent: ZshDeno -->
+<!-- Title: Roadmap ZshDeno -->
 <!-- Label: Roadmap -->
 <!-- Include: disclaimer.md -->
 <!-- Include: ac:toc -->
@@ -29,7 +29,7 @@
 
 The Roadmap is a list of all the things we're working on for the year.
 
-You can see the corresponding projects on [zsh-plugin-template](https://github.com/hadenlabs/zsh-plugin-template)
+You can see the corresponding projects on [zsh-deno](https://github.com/hadenlabs/zsh-deno)
 
 ## Legend
 
@@ -51,7 +51,3 @@ You can see the corresponding projects on [zsh-plugin-template](https://github.c
 ### December 2021
 
 ## Long Lived Initiatives
-
-These projects don't have an end date. They are something we'll continuously work towards.
-
-- [Better Docs](https://hadenlabs.atlassian.net/wiki)

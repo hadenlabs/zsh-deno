@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: ZshPluginTemplate -->
-<!-- Title: Releasing ZshPluginTemplate -->
-<!-- Label: ZshPluginTemplate -->
+<!-- Parent: ZshDeno -->
+<!-- Title: Releasing ZshDeno -->
+<!-- Label: ZshDeno -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->
 <!-- Include: disclaimer.md -->
@@ -11,7 +11,7 @@
 
 ## Bump a new version
 
-Make a new version of zsh-plugin-template in the following steps:
+Make a new version of zsh-deno in the following steps:
 
 ### Generate version major
 

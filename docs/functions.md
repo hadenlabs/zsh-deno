@@ -1,6 +1,6 @@
 <!-- Space: Projects -->
-<!-- Parent: ZshPluginTemplate -->
-<!-- Title: Functions ZshPluginTemplate -->
+<!-- Parent: ZshDeno -->
+<!-- Title: Functions ZshDeno -->
 <!-- Label: Functions -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
