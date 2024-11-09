@@ -19,3 +19,7 @@ function deno::internal::main::factory {
 }
 
 deno::internal::main::factory
+dvm::internal::dvm::load
+
+if ! core::exists curl; then core::install curl; fi
+if ! core::exists dvm; then dvm::internal::dvm::install; fi
